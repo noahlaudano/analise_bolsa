@@ -7,6 +7,8 @@ O seaborn e o plotly são usados para criar gráficos e séries temporais para a
 
 Por fim, é possível avaliar o valor mínimo, o valor máximo e a média de valor que esta ação já teve. 
 
+*Projeto criado no curso de Engenharia de Software da Estácio, na aula de Principios de Big Data do Tópicos de Big Data em Python.*
+
 ## Usando o Notebook
 Você pode abrir e rodar o notebook online, pelo [Colab Research do Google](https://colab.research.google.com/).
 
